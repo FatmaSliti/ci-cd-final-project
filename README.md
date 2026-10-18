@@ -9,6 +9,8 @@ some screenshots from my openshift pipelines practice
 <img width="1603" height="798" alt="image" src="https://github.com/user-attachments/assets/053a9a73-ae9e-40b7-96aa-e1c7c281ddbd" />
 
 <img width="1631" height="800" alt="image" src="https://github.com/user-attachments/assets/7bbacf8a-94a1-43ab-b220-437ada8f9102" />
+<img width="1612" height="489" alt="image" src="https://github.com/user-attachments/assets/f18a6883-9ef7-489d-8c45-fcf4e8aac31e" />
+
 <img width="1625" height="387" alt="image" src="https://github.com/user-attachments/assets/03fffeea-b045-4105-b886-72cf8ce6b0c2" />
 
 <img width="1629" height="527" alt="image" src="https://github.com/user-attachments/assets/ee554323-fd5b-4892-9ae3-8538e166115d" />
